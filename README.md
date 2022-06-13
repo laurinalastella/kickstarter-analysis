@@ -23,7 +23,13 @@
  ![Subcategory Statistics GB.png](https://github.com/laurinalastella/kickstarter-analysis/blob/main/Subcategory%20Statistics%20GB.png?raw=true)
  
  
+ Observations:
+ - Your five favorite Edinburgh plays had a minimum goal (in GB Pounds) of 1000, and a maximum goal of 4000.
+ - They had an average goal of approximately 2000 GBP, and all of their pledges were over their goals.
  
+ Recommendations:
+ - Aim your campaign goal to be between $3000-$5000.
+ - May is the best month to launch a campaign.
  
  
  
