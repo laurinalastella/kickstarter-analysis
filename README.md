@@ -50,14 +50,14 @@
 - Date Created = UNIX Date converted to Excel date, grouped by Month, all Years combined.
 - Outcomes grouped and counted by Month.
 
-![Graph_Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Graph_Theater_Outcomes_vs_Launch](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 - COUNTIFS used to count the number of Outcomes per Goal amount, in bins of $5000.
 - Subcategory of Plays, under Theater Category.
 - Simple percentages calculated. All percentages are accounted for, and add up to 100%.
 
-![Graph_Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Graph_Outcomes_vs_Goals](/resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
